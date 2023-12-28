@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blog-xenon-assignment/static/css/main.34a55078.css",
+    "main.js": "/blog-xenon-assignment/static/js/main.9c1ab9e2.js",
+    "index.html": "/blog-xenon-assignment/index.html",
+    "static/media/temple.svg": "/blog-xenon-assignment/static/media/temple.c57f882d6ddeca845dd49539d9e5e2d9.svg",
+    "static/media/dashboard_icon.svg": "/blog-xenon-assignment/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
+    "static/media/add_icon.svg": "/blog-xenon-assignment/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
+    "main.34a55078.css.map": "/blog-xenon-assignment/static/css/main.34a55078.css.map",
+    "main.9c1ab9e2.js.map": "/blog-xenon-assignment/static/js/main.9c1ab9e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a55078.css",
+    "static/js/main.9c1ab9e2.js"
+  ]
+}
