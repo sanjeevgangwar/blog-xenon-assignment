@@ -9,3 +9,9 @@
 ![Screenshot from 2023-12-28 17-00-03](https://github.com/sanjeevgangwar/blog-xenon-assignment/assets/93440963/62dbdb95-fc93-4df2-9587-d745c40b44f8)
 
   
+## Tech Stacks
+### React Js
+### Html
+### CSS
+### Firebase
+### JavaScript
