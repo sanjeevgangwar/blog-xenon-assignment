@@ -10,7 +10,7 @@
 
   
 ## Tech Stacks
-### React Js
+#### React Js
 ### Html
 ### CSS
 ### Firebase
