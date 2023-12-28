@@ -11,7 +11,13 @@
   
 ## Tech Stacks
 #### React Js
-### Html
-### CSS
-### Firebase
-### JavaScript
+#### Html
+#### CSS
+#### Firebase
+#### JavaScript
+
+## Features
+#### User Authentication
+#### Login/Logout
+#### User Blogs
+#### Reviews
