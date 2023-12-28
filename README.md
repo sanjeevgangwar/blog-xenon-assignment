@@ -16,8 +16,9 @@
 #### Firebase
 #### JavaScript
 
+
 ## Features
 #### User Authentication
 #### Login/Logout
-#### User Blogs
-#### Reviews
+#### Blogs
+#### User Reviews
